@@ -18,14 +18,14 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/django-blog.git
+git clone https://github.com/sonychinnala/django-blog.git
 cd django-blog
 Create and activate a virtual environment:
 
 bash
 Copy code
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env/bin/activate  
 Install dependencies:
 
 bash
